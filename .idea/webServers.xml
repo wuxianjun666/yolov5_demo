@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="916d8cce-5803-4cff-97dd-f8e3155872fa" name="school">
+        <fileTransfer rootFolder="/home1/wuxj/workplace_wuxj" accessType="SFTP" sshConfigId="1a5ab87a-7f86-4c41-b35b-b8fa4e6c560b" sshConfig="alpha@101.43.83.29:7001 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
